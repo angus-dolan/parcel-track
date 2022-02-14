@@ -4,4 +4,4 @@
 ## Screenshots
 ![screenshot-1](screenshot-1.PNG)
 ![screenshot-2](screenshot-2.PNG)
-![diagram](diagram.PNG)
+![diagram](diagram.png)
